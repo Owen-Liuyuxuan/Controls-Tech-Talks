@@ -1,3 +1,6 @@
+% Author: Melda Ulusoy
+% Copyright 2018 The MathWorks, Inc. 
+
 function x = myStateTransitionFcn(x,u)
 % Sample time [s]
 dt = 0.01; 

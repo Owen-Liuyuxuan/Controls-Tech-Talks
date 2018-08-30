@@ -1,3 +1,6 @@
+% Author: Melda Ulusoy
+% Copyright 2018 The MathWorks, Inc.
+
 function blkStruct = slblocks
 		% This function specifies that the library should appear
 		% in the Library Browser

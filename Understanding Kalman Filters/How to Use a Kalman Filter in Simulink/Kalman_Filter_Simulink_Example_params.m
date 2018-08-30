@@ -1,5 +1,5 @@
-%Author: Melda Ulusoy
-%Copyright 
+% Author: Melda Ulusoy
+% Copyright 2018 The MathWorks, Inc.
 % Pendulum model
 % Gravity
 g = 9.81; % [m/s^2]

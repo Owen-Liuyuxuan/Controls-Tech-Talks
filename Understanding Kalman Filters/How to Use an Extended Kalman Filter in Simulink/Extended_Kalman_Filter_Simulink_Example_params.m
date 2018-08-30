@@ -1,3 +1,6 @@
+% Author: Melda Ulusoy
+% Copyright 2018 The MathWorks, Inc. 
+
 % Pendulum model
 
 % Gravity

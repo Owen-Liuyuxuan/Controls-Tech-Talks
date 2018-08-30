@@ -1,3 +1,6 @@
+% Author: Melda Ulusoy
+% Copyright 2018 MathWorks, Inc.
+
 hold off;
 % Create model and measurement probability distributions
 % first, Kalman Filter at step k-1
